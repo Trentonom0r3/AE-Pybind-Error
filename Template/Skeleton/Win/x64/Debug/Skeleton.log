@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Skeleton.cpp
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Util\Param_Utils.h(343,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '../Skeleton.cpp')
+  
+  Skeleton.vcxproj -> C:\Program Files\Adobe\Adobe After Effects 2023\Support Files\Plug-ins\Effects\Skeleton.aex
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

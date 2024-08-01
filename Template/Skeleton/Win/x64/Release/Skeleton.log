@@ -1,0 +1,35 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Compiling the PiPL
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33523 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  SkeletonPiPL.r
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33523 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  SkeletonPiPL.rrc
+  AEGP_SuiteHandler.cpp
+  MissingSuiteError.cpp
+  Skeleton.cpp
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Util\Param_Utils.h(343,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '../Skeleton.cpp')
+  
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(54,18): warning C4244: 'initializing': conversion from '_Ty' to 'A_long', possible loss of data
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(54,18): warning C4244:         with
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(54,18): warning C4244:         [
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(54,18): warning C4244:             _Ty=pybind11::ssize_t
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(54,18): warning C4244:         ]
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(55,19): warning C4244: 'initializing': conversion from '_Ty' to 'A_long', possible loss of data
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(55,19): warning C4244:         with
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(55,19): warning C4244:         [
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(55,19): warning C4244:             _Ty=pybind11::ssize_t
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(55,19): warning C4244:         ]
+C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Skeleton.cpp(290,13): warning C4150: deletion of pointer to incomplete type '_PF_PixelOpaque'; no destructor called
+  C:\Users\tjerf\source\repos\after_effects_cmake\AE\Headers\AE_Effect.h(1319,16):
+  see declaration of '_PF_PixelOpaque'
+  
+  Generating Code...
+     Creating library x64\Release\/Skeleton.lib and object x64\Release\/Skeleton.exp
+  Skeleton.vcxproj -> C:\Program Files\Adobe\Adobe After Effects 2023\Support Files\Plug-ins\Effects\Skeleton.aex
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

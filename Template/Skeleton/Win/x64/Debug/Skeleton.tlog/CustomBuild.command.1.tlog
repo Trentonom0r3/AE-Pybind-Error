@@ -1,0 +1,4 @@
+^C:\USERS\TJERF\SOURCE\REPOS\AFTER_EFFECTS_CMAKE\AE\TEMPLATE\SKELETON\SKELETONPIPL.R
+cl /I "C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Win\..\..\..\Headers" /EP ".."\\"SkeletonPiPL.r" > "x64\Debug\"\\"SkeletonPiPL.rr"
+"C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Win\..\..\..\Resources\PiPLTool" "x64\Debug\SkeletonPiPL.rr" "x64\Debug\SkeletonPiPL.rrc"
+cl /D "MSWindows" /EP x64\Debug\SkeletonPiPL.rrc >               "C:\Users\tjerf\source\repos\after_effects_cmake\AE\Template\Skeleton\Win\"\\"SkeletonPiPL".rc
